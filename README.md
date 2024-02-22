@@ -1,1 +1,1 @@
-![](https://github.com/<user>/<repo>/actions/workflows/<yml-file>/badge.jpg)
+![](https://github.com/Deron5566/NYCU-Software-Testing-2024/actions/workflows/github-actions-demo.yml/badge.svg)
